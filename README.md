@@ -15,14 +15,6 @@
 ###
 
 <div>
-   <a href="https://github.com/leandrovieiraa">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leandrovieiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leandrovieiraa&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-###
-
-<div>
    <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
    <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
