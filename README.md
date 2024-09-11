@@ -1,4 +1,4 @@
-<img align="center" alt="Link" height="1200" width="600" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif](https://i.gifer.com/75xZ.gif"> 
+<img align="center" alt="Link" height500" width="1000" src="https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif"> 
 
 # Leandro Vieira
 
