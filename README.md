@@ -1,4 +1,6 @@
-![Link]([https://i.gifer.com/75xZ.gif](https://i.pinimg.com/564x/7e/94/b4/7e94b4b6fe5c93cc09936888457710e8.jpg))
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/564x/7e/94/b4/7e94b4b6fe5c93cc09936888457710e8.jpg" alt="Leandro Vieira" height="172" width="236">
+</div>
 
 # Leandro Vieira
 
