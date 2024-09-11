@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/564x/7e/94/b4/7e94b4b6fe5c93cc09936888457710e8.jpg" alt="Leandro Vieira">
+  <img src="https://cdn.lospec.com/gallery/the-hand-of-god-berserk-359185.png" alt="Leandro Vieira">
 </div>
 
 # Leandro Vieira
