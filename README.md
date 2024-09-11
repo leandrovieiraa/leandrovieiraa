@@ -1,4 +1,4 @@
-<img align="center" alt="Link" height="500" width="1000" src="https://i.gifer.com/75xZ.gif">
+![Link](https://i.gifer.com/75xZ.gif)
 
 # Leandro Vieira
 
